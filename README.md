@@ -29,8 +29,8 @@ You are required to help the manager to predict the right group of the new custo
 
 ## PROGRAM:
 
-### Name: RITHIGA SRI.B
-### Register Number: 212221230083
+### Name: Sukhmeet Kaur G 
+### Register Number: 2305001032
 
 ```python
 import pandas as pd
@@ -184,18 +184,20 @@ print(le.inverse_transform(x_single_prediction))
 ```
 
 ## Dataset Information:
-![image](https://github.com/Rithigasri/DL_Exp02/assets/93427256/59ce1619-686c-4ae9-835f-9c77bdb146ed)
+<img width="1038" height="236" alt="image" src="https://github.com/user-attachments/assets/e06ffcd1-1e51-440a-b584-8e64b3ad930e" />
+
 
 
 ## OUTPUT:
 ### Training Loss, Validation Loss Vs Iteration Plot:
-![image](https://github.com/Rithigasri/DL_Exp02/assets/93427256/714e5816-8daf-49df-8ee1-bff332a8b6b6)
+<img width="776" height="500" alt="image" src="https://github.com/user-attachments/assets/4ab93b9d-961f-4670-a579-8d7198ee8ad1" />
+
 ### Classification Report:
-![image](https://github.com/Rithigasri/DL_Exp02/assets/93427256/6bfd3d31-f93b-42d9-83e4-a8ec21f6a983)
+<img width="776" height="298" alt="image" src="https://github.com/user-attachments/assets/87519f17-6c79-434a-9880-5de42ca8a442" />
+
 ### Confusion Matrix:
-![image](https://github.com/Rithigasri/DL_Exp02/assets/93427256/419517ce-f97d-4f3e-af4a-977ccb0d24d4)
-### New Sample Data Prediction:
-![image](https://github.com/Rithigasri/DL_Exp02/assets/93427256/11617352-b34c-4762-b686-39798d90c82d)
+<img width="247" height="132" alt="image" src="https://github.com/user-attachments/assets/620850e9-b47a-44ab-85b5-dff9674aecaa" />
+
 
 ## RESULT:
 Thus a neural network classification model is developed for the given dataset.
